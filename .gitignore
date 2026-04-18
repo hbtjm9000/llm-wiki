@@ -1,0 +1,10 @@
+#/__pycache__
+
+#worker.log
+
+#/queries
+
+*.py
+
+#Obsidian directory
+#.obsidian
