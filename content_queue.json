@@ -1,0 +1,25 @@
+[
+  {
+    "id": "already-open-test",
+    "url": "https://example.com/already-open",
+    "type": "concept",
+    "title": "Already Open Test",
+    "status": "Open"
+  },
+  {
+    "id": "1d463e42",
+    "url": "https://example.com/idempotent-test-41744de9",
+    "influencer": null,
+    "type": "concept",
+    "title": "idempotent test 41744de9",
+    "status": "Unassigned"
+  },
+  {
+    "id": "7dc1a1f8",
+    "url": "https://example.com/idempotent-test-41744de9",
+    "influencer": null,
+    "type": "concept",
+    "title": "idempotent test 41744de9",
+    "status": "Unassigned"
+  }
+]
