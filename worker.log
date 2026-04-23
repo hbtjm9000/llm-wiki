@@ -127,3 +127,152 @@ Task 80dae3a3 marked Done.
 Task 80dae3a3 completed.
 Queue empty. Worker exiting.
 Worker stopped at Tue Apr 14 12:15:25 AM EST 2026
+Worker started at Sat Apr 18 02:40:17 AM EST 2026
+Processing Task af2e3811: watch (type: concept)
+
+╭──────────── Hermes Agent v0.10.0 (2026.4.16) · upstream 73bccc94 ────────────╮
+│                                    Available Tools                           │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⣀⣀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   file: patch, read_file, search_files,     │
+│   ⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣇⠸⣿⣿⠇⣸⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀   write_file                                │
+│   ⠀⢀⣠⣴⣶⠿⠋⣩⡿⣿⡿⠻⣿⡇⢠⡄⢸⣿⠟⢿⣿⢿⣍⠙⠿⣶⣦⣄⡀⠀   homeassistant: ha_call_service,           │
+│   ⠀⠀⠉⠉⠁⠶⠟⠋⠀⠉⠀⢀⣈⣁⡈⢁⣈⣁⡀⠀⠉⠀⠙⠻⠶⠈⠉⠉⠀⠀   ha_get_state, ...                         │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠛⢁⡈⠛⢿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   image_gen: image_generate                 │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⣿⣦⣤⣈⠁⢠⣴⣿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   messaging: send_message                   │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠻⢿⣿⣦⡉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   rl: rl_check_status, rl_edit_config, ...  │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⣦⣈⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   terminal: process, terminal               │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⠦⠈⠙⠿⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   web: web_extract, web_search              │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣤⡈⠁⢤⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                             │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠷⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   MCP Servers                               │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠑⢶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   agentmail (stdio) — 15 tool(s)            │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⢰⡆⠈⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                             │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠈⣡⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Available Skills                          │
+│   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   agent-orchestration:                      │
+│                                    concurrent-agent-queue                    │
+│  gemini-2.5-flash · Nous Research  automation: Email Monitor Script Setup,   │
+│            /home/hbtjm             Run AgentMail Email...                    │
+│  Session: 20260418_024022_6d9721   autonomous-ai-agents: claude-code,        │
+│                                    codex, hermes-agent, opencode             │
+│                                    creative: architecture-diagram,           │
+│                                    ascii-art, ascii-video, e...              │
+│                                    data-science: jupyter-live-kernel         │
+│                                    devops: auto_memex_debug_cycle,           │
+│                                    check-tool-version-with...                │
+│                                    email: AgentMail Email Alert Monitor,     │
+│                                    AgentMail Monito...                       │
+│                                    environment-tool-diagnostics:             │
+│                                    mcp-auth-diagnostic                       │
+│                                    felo-skills: apple-buy-advisor,           │
+│                                    claw-deck, felo-content-to-s...           │
+│                                    gaming: minecraft-modpack-server,         │
+│                                    pokemon-player                            │
+│                                    general: browser-use, dogfood,            │
+│                                    environment-tool-diagnost...              │
+│                                    github: codebase-inspection,              │
+│                                    github-auth, github-code-r...             │
+│                                    knowledge-management: auto_memex,         │
+│                                    obsidian-git-wiki-initializer, obsi...    │
+│                                    leisure: find-nearby                      │
+│                                    maintenance: remove-worker-job            │
+│                                    mcp: mcporter, native-mcp                 │
+│                                    media: gif-search, heartmula, songsee,    │
+│                                    youtube-content                           │
+│                                    mlops: audiocraft-audio-generation,       │
+│                                    axolotl, clip, dsp...                     │
+│                                    monitoring: hermes-model-stats-tracker    │
+│                                    note-taking: obsidian                     │
+│                                    productivity: google-workspace, linear,   │
+│                                    nano-pdf, notion, ocr...                  │
+│                                    red-teaming: godmode                      │
+│                                    research: arxiv, blogwatcher,             │
+│                                    duckduckgo-search, influenc...            │
+│                                    smart-home: openhue                       │
+│                                    social-media: xitter                      │
+│                                    software-development: plan,               │
+│                                    requesting-code-review,                   │
+│                                    subagent-driven-d...                      │
+│                                                                              │
+│                                    8 tools · 123 skills · 1 MCP servers ·    │
+│                                    /help for commands                        │
+│                                    ⚠ 38 commits behind — run hermes update   │
+│                                    to update                                 │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Query: You are an ingestion worker for an IT wiki.
+
+**Task**: Create or update a wiki page from a YouTube video.
+
+**Source URL**: https://www.youtube.com/watch?v=4cuT-LKcmWs
+**Page Name**: concepts/watch
+**Type**: concept
+**Influencer**: Nate B Jones
+
+**Instructions**:
+1. Fetch the YouTube transcript using the youtube-subtitling tool
+2. Extract key IT/Tech concepts from the transcript
+3. Create/update the page at /home/hbtjm/library/concepts/watch.md (the .md 
+extension is added automatically by the system — do NOT add .md to the path 
+yourself) with:
+   - STRICT frontmatter (YAML): title, created: 2026-04-18, updated: 2026-04-18,
+type: concept, tags (use SCHEMA.md taxonomy), sources: 
+   - Substantive content (50+ words) explaining the concepts
+   - At least 2 wikilinks to existing wiki pages
+   - The page title in frontmatter must match 'watch'
+
+4. After creating the page:
+   - Update /home/hbtjm/library/index.md: add '- [] ...' in the correct section
+   - Append to /home/hbtjm/library/log.md: '## [2026-04-18] ingest | watch'
+
+5. Verify the created file has valid frontmatter before completing.
+
+Do not apologize. Execute the file writes now.
+Initializing agent...
+────────────────────────────────────────
+
+⚠️  API call failed (attempt 1/3): AuthenticationError [HTTP 401]
+   🔌 Provider: opencode-go  Model: gemini-2.5-flash
+   🌐 Endpoint: https://opencode.ai/zen/go/v1
+   📝 Error: HTTP 401: Model gemini-2.5-flash not supported
+   📋 Details: {'type': 'ModelError', 'message': 'Model gemini-2.5-flash not supported'}
+⚠️ Non-retryable error (HTTP 401) — trying fallback...
+❌ Non-retryable error (HTTP 401): HTTP 401: Model gemini-2.5-flash not supported
+❌ Non-retryable client error (HTTP 401). Aborting.
+   🔌 Provider: opencode-go  Model: gemini-2.5-flash
+   🌐 Endpoint: https://opencode.ai/zen/go/v1
+   💡 Your API key was rejected by the provider. Check:
+      • Is the key valid? Run: hermes setup
+      • Does your account have access to gemini-2.5-flash?
+ ─  ⚕ Hermes  ───────────────────────────────────────────────────────────────── 
+                                                                                
+     Error: Error code: 401 - {'type': 'error', 'error': {'type':               
+     'ModelError', 'message': 'Model gemini-2.5-flash not supported'}}          
+                                                                                
+ ────────────────────────────────────────────────────────────────────────────── 
+
+Resume this session with:
+  hermes --resume 20260418_024022_6d9721
+
+Session:        20260418_024022_6d9721
+Duration:       14s
+Messages:       1 (1 user, 0 tool calls)
+Task af2e3811 marked Done.
+Task af2e3811 completed.
+Queue empty. Worker exiting.
+Worker stopped at Sat Apr 18 02:40:37 AM EST 2026
+++ date +%Y-%m-%d
++ TODAY=2026-04-18
++ QUEUE_MANAGER=/home/hbtjm/library/queue_manager.py
+++ date
++ echo 'Worker started at Sat Apr 18 02:40:58 AM EST 2026'
+Worker started at Sat Apr 18 02:40:58 AM EST 2026
++ true
+++ get_task
+++ python /home/hbtjm/library/queue_manager.py pop
++ TASK='{"error": "No Unassigned tasks available"}'
++ echo '{"error": "No Unassigned tasks available"}'
++ grep -q '"error"'
++ echo 'Queue empty. Worker exiting.'
+Queue empty. Worker exiting.
++ break
+++ date
++ echo 'Worker stopped at Sat Apr 18 02:40:58 AM EST 2026'
+Worker stopped at Sat Apr 18 02:40:58 AM EST 2026

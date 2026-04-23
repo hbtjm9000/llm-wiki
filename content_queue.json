@@ -1,25 +1,432 @@
 [
   {
-    "id": "already-open-test",
-    "url": "https://example.com/already-open",
-    "type": "concept",
-    "title": "Already Open Test",
-    "status": "Open"
+    "id": "EWvNQjAaOHw",
+    "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+    "type": "transcript",
+    "title": "How I use LLMs",
+    "channel": "andrej-karpathy",
+    "duration": 7872.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:20:54.019260"
   },
   {
-    "id": "1d463e42",
-    "url": "https://example.com/idempotent-test-41744de9",
-    "influencer": null,
-    "type": "concept",
-    "title": "idempotent test 41744de9",
-    "status": "Unassigned"
+    "id": "7xTGNNLPyMI",
+    "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+    "type": "transcript",
+    "title": "Deep Dive into LLMs like ChatGPT",
+    "channel": "andrej-karpathy",
+    "duration": 12684.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:20:54.019881"
   },
   {
-    "id": "7dc1a1f8",
-    "url": "https://example.com/idempotent-test-41744de9",
-    "influencer": null,
-    "type": "concept",
-    "title": "idempotent test 41744de9",
-    "status": "Unassigned"
+    "id": "l8pRSuU81PU",
+    "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+    "type": "transcript",
+    "title": "Let's reproduce GPT-2 (124M)",
+    "channel": "andrej-karpathy",
+    "duration": 14486.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:20:54.020285"
+  },
+  {
+    "id": "zduSFxRajkE",
+    "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
+    "type": "transcript",
+    "title": "Let's build the GPT Tokenizer",
+    "channel": "andrej-karpathy",
+    "duration": 8015.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:20:54.020641"
+  },
+  {
+    "id": "zjkBMFhNj_g",
+    "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+    "type": "transcript",
+    "title": "[1hr Talk] Intro to Large Language Models",
+    "channel": "andrej-karpathy",
+    "duration": 3588.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:20:54.021028"
+  },
+  {
+    "id": "xHi8PUIVyoo",
+    "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+    "type": "transcript",
+    "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+    "channel": "yannic-kilcher",
+    "duration": 826.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:03.617363"
+  },
+  {
+    "id": "taCVT5vDAk0",
+    "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+    "type": "transcript",
+    "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+    "channel": "yannic-kilcher",
+    "duration": 2822.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:03.623470"
+  },
+  {
+    "id": "v67plFw1nMw",
+    "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
+    "type": "transcript",
+    "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+    "channel": "yannic-kilcher",
+    "duration": 1951.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:03.624007"
+  },
+  {
+    "id": "Nao16-6l6dQ",
+    "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+    "type": "transcript",
+    "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+    "channel": "yannic-kilcher",
+    "duration": 2410.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:03.624540"
+  },
+  {
+    "id": "0bpYCxv2qhw",
+    "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+    "type": "transcript",
+    "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+    "channel": "yannic-kilcher",
+    "duration": 799.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:03.625054"
+  },
+  {
+    "id": "Sk9tvyRSCgY",
+    "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
+    "type": "transcript",
+    "title": "DeepMind\u2019s New AI: A Gift To Humanity",
+    "channel": "two-minute-papers",
+    "duration": 716.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:24.083065"
+  },
+  {
+    "id": "Io_GqmbNBbY",
+    "url": "https://www.youtube.com/watch?v=Io_GqmbNBbY",
+    "type": "transcript",
+    "title": "DeepMind\u2019s New AI Just Changed Science Forever",
+    "channel": "two-minute-papers",
+    "duration": 608.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:24.083860"
+  },
+  {
+    "id": "qF_tfIieeE0",
+    "url": "https://www.youtube.com/watch?v=qF_tfIieeE0",
+    "type": "transcript",
+    "title": "The Physics Bug That Stumped Everyone Is Finally Gone!",
+    "channel": "two-minute-papers",
+    "duration": 611.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:24.101169"
+  },
+  {
+    "id": "ssbHkYB0jYM",
+    "url": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
+    "type": "transcript",
+    "title": "How DeepMind\u2019s New AI Predicts What It Cannot See",
+    "channel": "two-minute-papers",
+    "duration": 642.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:24.101955"
+  },
+  {
+    "id": "B6GJjvR6txg",
+    "url": "https://www.youtube.com/watch?v=B6GJjvR6txg",
+    "type": "transcript",
+    "title": "The Most Realistic Fire Simulation Ever",
+    "channel": "two-minute-papers",
+    "duration": 698.0,
+    "status": "Unassigned",
+    "added": "2026-04-21T12:21:24.102550"
+  },
+  {
+    "id": "kCc8FmEb1nY",
+    "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+    "type": "transcript",
+    "title": "Let's build GPT: from scratch, in code, spelled out.",
+    "channel": "andrej-karpathy",
+    "duration": 6980.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:27.121201"
+  },
+  {
+    "id": "t3YJ5hKiMQ0",
+    "url": "https://www.youtube.com/watch?v=t3YJ5hKiMQ0",
+    "type": "transcript",
+    "title": "Building makemore Part 5: Building a WaveNet",
+    "channel": "andrej-karpathy",
+    "duration": 3382.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:27.127280"
+  },
+  {
+    "id": "q8SA3rM6ckI",
+    "url": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
+    "type": "transcript",
+    "title": "Building makemore Part 4: Becoming a Backprop Ninja",
+    "channel": "andrej-karpathy",
+    "duration": 6924.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:27.127890"
+  },
+  {
+    "id": "P6sfmUTpUmc",
+    "url": "https://www.youtube.com/watch?v=P6sfmUTpUmc",
+    "type": "transcript",
+    "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
+    "channel": "andrej-karpathy",
+    "duration": 6958.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:27.128574"
+  },
+  {
+    "id": "TCH_1BHY58I",
+    "url": "https://www.youtube.com/watch?v=TCH_1BHY58I",
+    "type": "transcript",
+    "title": "Building makemore Part 2: MLP",
+    "channel": "andrej-karpathy",
+    "duration": 4540.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:27.129202"
+  },
+  {
+    "id": "zKohTkN0Fyk",
+    "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+    "type": "transcript",
+    "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+    "channel": "yannic-kilcher",
+    "duration": 2937.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:43.615609"
+  },
+  {
+    "id": "hpC4qjWu_aY",
+    "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
+    "type": "transcript",
+    "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+    "channel": "yannic-kilcher",
+    "duration": 2269.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:43.616497"
+  },
+  {
+    "id": "RAEy3JZmIaA",
+    "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
+    "type": "transcript",
+    "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+    "channel": "yannic-kilcher",
+    "duration": 2871.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:43.621809"
+  },
+  {
+    "id": "V71AJoYAtBQ",
+    "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
+    "type": "transcript",
+    "title": "On the Biology of a Large Language Model (Part 2)",
+    "channel": "yannic-kilcher",
+    "duration": 3386.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:43.622564"
+  },
+  {
+    "id": "mU3g2YPKlsA",
+    "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
+    "type": "transcript",
+    "title": "On the Biology of a Large Language Model (Part 1)",
+    "channel": "yannic-kilcher",
+    "duration": 3245.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:32:43.623306"
+  },
+  {
+    "id": "fFL7la73RO4",
+    "url": "https://www.youtube.com/watch?v=fFL7la73RO4",
+    "type": "transcript",
+    "title": "New DeepSeek Research - The Future Is Here!",
+    "channel": "two-minute-papers",
+    "duration": 755.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:02.055955"
+  },
+  {
+    "id": "9Mcv9vpGW5Q",
+    "url": "https://www.youtube.com/watch?v=9Mcv9vpGW5Q",
+    "type": "transcript",
+    "title": "They Said It Was Impossible\u2026 This Simulation Solved It",
+    "channel": "two-minute-papers",
+    "duration": 854.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:02.056994"
+  },
+  {
+    "id": "SWGBN1KvG6c",
+    "url": "https://www.youtube.com/watch?v=SWGBN1KvG6c",
+    "type": "transcript",
+    "title": "We Just Turned Down Millions of Dollars. Here Is Why.",
+    "channel": "two-minute-papers",
+    "duration": 633.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:02.062208"
+  },
+  {
+    "id": "Vhcwjzeukts",
+    "url": "https://www.youtube.com/watch?v=Vhcwjzeukts",
+    "type": "transcript",
+    "title": "AlphaFold - The Most Important AI Breakthrough Ever Made",
+    "channel": "two-minute-papers",
+    "duration": 1369.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:02.063162"
+  },
+  {
+    "id": "OZz5PonQKu8",
+    "url": "https://www.youtube.com/watch?v=OZz5PonQKu8",
+    "type": "transcript",
+    "title": "They Said It Was Impossible\u2026 Weta FX Just Solved It",
+    "channel": "two-minute-papers",
+    "duration": 603.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:02.064134"
+  },
+  {
+    "id": "PaCmpygFfXo",
+    "url": "https://www.youtube.com/watch?v=PaCmpygFfXo",
+    "type": "transcript",
+    "title": "The spelled-out intro to language modeling: building makemore",
+    "channel": "andrej-karpathy",
+    "duration": 7065.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:20.059586"
+  },
+  {
+    "id": "2oKjtvYslMY",
+    "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
+    "type": "transcript",
+    "title": "Stable diffusion dreams of steampunk brains",
+    "channel": "andrej-karpathy",
+    "duration": 1166.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:20.060618"
+  },
+  {
+    "id": "VMj-3S1tku0",
+    "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+    "type": "transcript",
+    "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+    "channel": "andrej-karpathy",
+    "duration": 8752.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:20.063215"
+  },
+  {
+    "id": "bAWV_yrqx4w",
+    "url": "https://www.youtube.com/watch?v=bAWV_yrqx4w",
+    "type": "transcript",
+    "title": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "channel": "yannic-kilcher",
+    "duration": 4140.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:29.075940"
+  },
+  {
+    "id": "loaTGpqfctI",
+    "url": "https://www.youtube.com/watch?v=loaTGpqfctI",
+    "type": "transcript",
+    "title": "Byte Latent Transformer: Patches Scale Better Than Tokens (Paper Explained)",
+    "channel": "yannic-kilcher",
+    "duration": 2175.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:29.076886"
+  },
+  {
+    "id": "-r0XPC7TLzY",
+    "url": "https://www.youtube.com/watch?v=-r0XPC7TLzY",
+    "type": "transcript",
+    "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep (Paper Explained)",
+    "channel": "yannic-kilcher",
+    "duration": 2933.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:29.082462"
+  },
+  {
+    "id": "gfU5y7qCxF0",
+    "url": "https://www.youtube.com/watch?v=gfU5y7qCxF0",
+    "type": "transcript",
+    "title": "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters (Paper Explained)",
+    "channel": "yannic-kilcher",
+    "duration": 1703.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:29.083294"
+  },
+  {
+    "id": "Bs6eyNQjGpo",
+    "url": "https://www.youtube.com/watch?v=Bs6eyNQjGpo",
+    "type": "transcript",
+    "title": "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models",
+    "channel": "yannic-kilcher",
+    "duration": 2226.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:29.084140"
+  },
+  {
+    "id": "9_ypA131CPc",
+    "url": "https://www.youtube.com/watch?v=9_ypA131CPc",
+    "type": "transcript",
+    "title": "New AI Just Made Fashion In Games Real",
+    "channel": "two-minute-papers",
+    "duration": 600.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:47.354580"
+  },
+  {
+    "id": "FM8yNkWad1w",
+    "url": "https://www.youtube.com/watch?v=FM8yNkWad1w",
+    "type": "transcript",
+    "title": "NVIDIA\u2019s New AI\u2019s Movements Are So Real It\u2019s Uncanny",
+    "channel": "two-minute-papers",
+    "duration": 631.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:47.355691"
+  },
+  {
+    "id": "VOORiyip4_c",
+    "url": "https://www.youtube.com/watch?v=VOORiyip4_c",
+    "type": "transcript",
+    "title": "The Worst Bug In Games Is Now Gone Forever",
+    "channel": "two-minute-papers",
+    "duration": 702.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:47.356622"
+  },
+  {
+    "id": "qE2VjPL74fE",
+    "url": "https://www.youtube.com/watch?v=qE2VjPL74fE",
+    "type": "transcript",
+    "title": "OpenAI\u2019s GPT 4.1 - Absolutely Amazing!",
+    "channel": "two-minute-papers",
+    "duration": 721.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:47.358289"
+  },
+  {
+    "id": "iBuTs1qg2lQ",
+    "url": "https://www.youtube.com/watch?v=iBuTs1qg2lQ",
+    "type": "transcript",
+    "title": "The Future of AI Might Be\u2026",
+    "channel": "two-minute-papers",
+    "duration": 670.0,
+    "status": "Unassigned",
+    "added": "2026-04-22T08:33:47.359798"
   }
 ]
