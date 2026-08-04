@@ -3,10 +3,8 @@ title: Enterprise AI as Operating Layer
 type: concept
 created: 2026-04-19
 source: technologyreview.com
-tags:
-  - enterprise-ai
-  - operating-layer
-  - ai-systems
+tags: [uncategorized]
+updated: 2026-04-30
 ---
 
 # Enterprise AI as Operating Layer

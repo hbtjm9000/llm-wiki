@@ -1,0 +1,27 @@
+[project]
+name = "llm-wiki-pipeline"
+version = "0.1.0"
+description = "LLM-Wiki content ingestion pipeline"
+requires-python = ">=3.10"
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+]
+ingest = [
+    "youtube-transcript-api>=0.1.8",
+    "yt-dlp>=2024.0",
+]
+
+[project.scripts]
+llm-wiki-scan = "llm_wiki_scan_youtube:main"
+llm-wiki-fetch = "llm_wiki_fetch_content:main"
+llm-wiki-rate = "llm_wiki_rate_content:main"
+llm-wiki-build = "llm_wiki_build_pages:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

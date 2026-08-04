@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "David Sacks"
-handle: "@DavidSacks"
-platform: "X"
-affiliation: "All In Podcast / Craft Ventures"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#competitive/positioning"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "Co-host All In Podcast. Founder Craft Ventures. Former PayPal COO (PayPal Mafia). Known for enterprise software expertise and contrarian market takes."
+type: entity
+name: David Sacks
+handle: '@DavidSacks'
+platform: X
+affiliation: All In Podcast / Craft Ventures
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: Co-host All In Podcast. Founder Craft Ventures. Former PayPal COO (PayPal Mafia). Known for enterprise software expertise and contrarian market takes.
+title: David Sacks
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # David Sacks
@@ -41,8 +42,8 @@ notes: "Co-host All In Podcast. Founder Craft Ventures. Former PayPal COO (PayPa
 
 ## Connections
 - **Related influencers:** [[Chamath Palihapitiya]], [[Jason Calacanis]], [[Keith Rabois]]
-- **Related companies:** [[All In Podcast]], [[Craft Ventures]], [[PayPal]], [[Yammer]]
-- **Related trends:** [[Enterprise AI Adoption]], [[SaaS Market Trends]]
+- **Related companies:** [[All In Podcast]], Craft Ventures, PayPal, Yammer
+- **Related trends:** [[Enterprise AI Adoption]], SaaS Market Trends
 
 ## Content Sources
 - **All In Podcast:** https://www.allinpodcast.co/

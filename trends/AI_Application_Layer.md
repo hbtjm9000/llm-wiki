@@ -1,15 +1,15 @@
 ---
-type: trend
-name: "AI Application Layer"
-category: "Technology/Market"
-emergence_date: "2024-Q1"
-adoption_curve: "Emerging"
-related_entities:
-  - "[[a16z]]"
-  - "[[Khosla Ventures]]"
-  - "[[Keith Rabois]]"
-  - "[[Lenny Rachitsky]]"
-impact_on_paradigm: "High"
+type: entity
+name: AI Application Layer
+category: Technology/Market
+emergence_date: 2024-Q1
+adoption_curve: Emerging
+related_entities: 
+impact_on_paradigm: High
+title: Ai Application Layer
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # AI Application Layer
@@ -48,7 +48,7 @@ impact_on_paradigm: "High"
 ## Related Trends
 - [[AI Infrastructure Investment]] - Enabling layer below applications
 - [[Enterprise AI Adoption]] - Driver of application demand
-- [[SaaS Market Trends]] - AI features becoming table stakes
+- SaaS Market Trends - AI features becoming table stakes
 
 ## Monitoring Cadence
 - **Startup Launches:** Weekly scan (TechCrunch, Product Hunt)

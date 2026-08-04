@@ -3,10 +3,7 @@ title: Data Breach Trends 2026
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags:
-  - Security
-  - Data Breaches
-  - Cybercrime
+tags: [uncategorized]
 ---
 
 # Data Breach Trends 2026

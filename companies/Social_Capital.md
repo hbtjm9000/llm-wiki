@@ -1,20 +1,18 @@
 ---
-type: company
-name: "Social Capital"
-sector: "Venture Capital"
-size: "Enterprise"
-positioning: "Premium - Growth Stage VC"
-products_services:
-  - "Growth Equity"
-  - "Venture Capital"
-  - "AI/ML investments"
-  - "Healthcare investments"
-  - "Fintech investments"
+type: entity
+name: Social Capital
+sector: Venture Capital
+size: Enterprise
+positioning: Premium - Growth Stage VC
 market_moves:
-  - "2026-04-12: Chamath discussion of AI investments on All In Podcast"
-  - "Ongoing: AI infrastructure and application investments"
-competitive_threat: "Low"
----
+  - "2026-04-12: Chamath discussion of AI investments on All In Podcast
+  - "Ongoing: AI infrastructure and application investments
+competitive_threat: Low
+title: Social Capital
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
+------
 
 # Social Capital
 
@@ -55,7 +53,7 @@ competitive_threat: "Low"
 ## Connections
 - **Related influencers:** [[Chamath Palihapitiya]]
 - **Related companies:** [[All In Podcast]], [[a16z]], [[Khosla Ventures]]
-- **Related trends:** [[AI Infrastructure Investment]], [[Tech Valuation Cycles]]
+- **Related trends:** [[AI Infrastructure Investment]], Tech Valuation Cycles
 
 ---
 

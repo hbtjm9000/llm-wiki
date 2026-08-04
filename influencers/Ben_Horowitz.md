@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "Ben Horowitz"
-handle: "@bhorowitz"
-platform: "X"
-affiliation: "a16z (Andreessen Horowitz)"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#competitive/positioning"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "Co-founder of a16z with Marc Andreessen. Former CEO Opsware (sold to HP for $1.6B). Known for 'The Hard Thing About Hard Things' and pragmatic leadership/strategy insights."
+type: entity
+name: Ben Horowitz
+handle: '@bhorowitz'
+platform: X
+affiliation: a16z (Andreessen Horowitz)
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: Co-founder of a16z with Marc Andreessen. Former CEO Opsware (sold to HP for $1.6B). Known for 'The Hard Thing About Hard Things' and pragmatic leadership/strategy insights.
+title: Ben Horowitz
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Ben Horowitz
@@ -41,7 +42,7 @@ notes: "Co-founder of a16z with Marc Andreessen. Former CEO Opsware (sold to HP 
 
 ## Connections
 - **Related influencers:** [[Marc Andreessen]], [[Keith Rabois]], [[Chamath Palihapitiya]]
-- **Related companies:** [[a16z]], [[Opsware]], [[HP]]
+- **Related companies:** [[a16z]], Opsware, HP
 - **Related trends:** [[Enterprise AI Adoption]], [[AI Application Layer]]
 
 ## Content Sources

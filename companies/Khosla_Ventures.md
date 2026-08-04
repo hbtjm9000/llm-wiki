@@ -1,20 +1,18 @@
 ---
-type: company
-name: "Khosla Ventures"
-sector: "Venture Capital"
-size: "Enterprise"
-positioning: "Premium - Early Stage VC"
-products_services:
-  - "Seed/Early Stage VC"
-  - "Growth Equity"
-  - "AI-focused investments"
-  - "Climate tech investments"
-  - "Healthcare/Biotech investments"
+type: entity
+name: Khosla Ventures
+sector: Venture Capital
+size: Enterprise
+positioning: Premium - Early Stage VC
 market_moves:
-  - "2026-04-12: Keith Rabois featured in Lenny's Newsletter on AI building"
-  - "Ongoing: Active AI infrastructure and application investments"
-competitive_threat: "Low"
----
+  - "2026-04-12: Keith Rabois featured in Lenny's Newsletter on AI building
+  - "Ongoing: Active AI infrastructure and application investments
+competitive_threat: Low
+title: Khosla Ventures
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
+------
 
 # Khosla Ventures
 
@@ -55,7 +53,7 @@ competitive_threat: "Low"
 - **X/Twitter:** Partners individually (@rabois, etc.)
 
 ## Connections
-- **Related influencers:** [[Keith Rabois]], [[Vinod Khosla]]
+- **Related influencers:** [[Keith Rabois]], Vinod Khosla
 - **Related companies:** [[a16z]], [[Social Capital]] (peer VCs)
 - **Related trends:** [[AI Infrastructure Investment]], [[AI Application Layer]]
 

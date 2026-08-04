@@ -1,7 +1,14 @@
+---
+title: Ai Token Factories
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # AI Token Factories
 
 **Category:** AI Infrastructure  
-**Related:** [[AI Infrastructure]], [[Cost per Token]], [[AI Inference]]  
+**Related:** AI Infrastructure, [[Cost per Token]], AI Inference  
 
 ## Overview
 
@@ -47,10 +54,10 @@ The shift to AI token factories requires:
 ## Related Concepts
 
 - [[Cost per Token]]
-- [[AI Inference]]
+- AI Inference
 - [[AI Infrastructure Investment]]
 - [[Agentic AI]]
-- [[Generative AI]]
+- Generative AI
 
 ## Predictions
 

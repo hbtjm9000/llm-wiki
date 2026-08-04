@@ -1,11 +1,12 @@
 ---
 type: concept
-name: "Bits to Atoms Rotation"
-category: "Investment Thesis"
-related_concepts:
-  - "Physical AI"
-  - "AI Infrastructure"
-  - "Venture Capital Trends"
+name: Bits to Atoms Rotation
+category: Investment Thesis
+related_concepts: 
+title: Bits To Atoms Rotation
+created: 2026-04-18
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Bits to Atoms Rotation

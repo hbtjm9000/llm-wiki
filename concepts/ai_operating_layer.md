@@ -1,11 +1,12 @@
 ---
 type: concept
-name: "AI Operating Layer"
-category: "Enterprise AI Strategy"
-related_concepts:
-  - "Knowledge Distillation"
-  - "Learning Flywheel"
-  - "Expertise Amplification"
+name: AI Operating Layer
+category: Enterprise AI Strategy
+related_concepts: 
+title: Ai Operating Layer
+created: 2026-04-18
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # AI Operating Layer

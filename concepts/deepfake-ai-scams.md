@@ -3,11 +3,7 @@ title: Deepfake AI Scams
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags:
-  - AI
-  - Fraud
-  - Deepfakes
-  - Security
+tags: [uncategorized]
 ---
 
 # Deepfake AI Scams
@@ -78,9 +74,9 @@ Fraudulent marketing for "Brain Vex" supplements claiming:
 - Need for public education on deepfake detection
 
 ## Related Concepts
-- [[ai-ethics-misinformation]]
+- ai-ethics-misinformation
 - [[cybercrime]]
-- [[digital-privacy-data-misuse]]
+- digital-privacy-data-misuse
 
 ## Sources
 - Jordan Liles, Snopes.com - "Bill Gates' Brain Vex Supplements? Nope, Dementia Cure Scam" (April 2026)

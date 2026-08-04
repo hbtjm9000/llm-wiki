@@ -1,19 +1,18 @@
 ---
-type: company
-name: "SpaceX"
-sector: "Aerospace / AI"
-size: "Enterprise"
-positioning: "Premium - AI-Enabled Space Technology"
-products_services:
-  - "Falcon 9 / Falcon Heavy Rockets"
-  - "Starlink Satellite Internet"
-  - "Starship (in development)"
-  - "Dragon Spacecraft"
+type: entity
+name: SpaceX
+sector: Aerospace / AI
+size: Enterprise
+positioning: Premium - AI-Enabled Space Technology
 market_moves:
-  - "2026-04-12: Part of '$25B Orbital AI Bet' discussion on All In Podcast"
-  - "Ongoing: Starlink AI-powered satellite operations"
-competitive_threat: "Low"
----
+  - "2026-04-12: Part of '$25B Orbital AI Bet' discussion on All In Podcast
+  - "Ongoing: Starlink AI-powered satellite operations
+competitive_threat: Low
+title: Spacex
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
+------
 
 # SpaceX
 
@@ -44,9 +43,9 @@ competitive_threat: "Low"
 | Ongoing | Starship development | Product | Monitor progress |
 
 ## Connections
-- **Related influencers:** [[Elon Musk]], [[Chamath Palihapitiya]]
-- **Related companies:** [[Tesla]], [[Intel]], [[Blue Origin]]
-- **Related trends:** [[AI Infrastructure Investment]], [[Autonomous Systems]]
+- **Related influencers:** Elon Musk, [[Chamath Palihapitiya]]
+- **Related companies:** [[Tesla]], [[Intel]], Blue Origin
+- **Related trends:** [[AI Infrastructure Investment]], Autonomous Systems
 
 ## Content Sources
 - **Website:** https://www.spacex.com/

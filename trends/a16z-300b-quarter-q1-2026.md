@@ -1,13 +1,10 @@
 ---
 title: a16z $300B Quarter Analysis
-type: trend
+type: entity
 created: 2026-04-19
 source: a16z.substack.com
-tags:
-  - venture-capital
-  - ai-investment
-  - infrastructure
-  - supply-chain
+tags: [uncategorized]
+updated: 2026-04-30
 ---
 
 # a16z $300B Quarter Analysis

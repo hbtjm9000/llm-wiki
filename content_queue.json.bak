@@ -1,0 +1,27 @@
+[
+  {
+    "id": "already-open-test",
+    "url": "https://example.com/already-open",
+    "type": "concept",
+    "title": "Already Open Test",
+    "status": "Open"
+  },
+  {
+    "id": "948cc077",
+    "url": "https://example.com/idempotent-test-fecca270",
+    "influencer": null,
+    "type": "concept",
+    "title": "idempotent test fecca270",
+    "status": "Unassigned",
+    "quality_score": null
+  },
+  {
+    "id": "76804ffe",
+    "url": "https://example.com/idempotent-test-fecca270",
+    "influencer": null,
+    "type": "concept",
+    "title": "idempotent test fecca270",
+    "status": "Unassigned",
+    "quality_score": null
+  }
+]

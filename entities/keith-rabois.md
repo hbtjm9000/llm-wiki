@@ -1,3 +1,10 @@
+---
+title: Keith Rabois
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Keith Rabois
 
 **Type:** Person

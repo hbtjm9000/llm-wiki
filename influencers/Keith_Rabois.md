@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "Keith Rabois"
-handle: "@rabois"
-platform: "X"
-affiliation: "Khosla Ventures"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#competitive/positioning"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "General Partner at Khosla Ventures. Former COO Square, VP PayPal (PayPal Mafia). Known for pragmatic AI adoption views and startup building expertise."
+type: entity
+name: Keith Rabois
+handle: '@rabois'
+platform: X
+affiliation: Khosla Ventures
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: General Partner at Khosla Ventures. Former COO Square, VP PayPal (PayPal Mafia). Known for pragmatic AI adoption views and startup building expertise.
+title: Keith Rabois
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Keith Rabois
@@ -41,8 +42,8 @@ notes: "General Partner at Khosla Ventures. Former COO Square, VP PayPal (PayPal
 
 ## Connections
 - **Related influencers:** [[Marc Andreessen]], [[Chamath Palihapitiya]], [[Lenny Rachitsky]]
-- **Related companies:** [[Khosla Ventures]], [[Square]], [[PayPal]]
-- **Related trends:** [[AI Application Layer]], [[GTM Strategy]]
+- **Related companies:** [[Khosla Ventures]], Square, PayPal
+- **Related trends:** [[AI Application Layer]], GTM Strategy
 
 ## Content Sources
 - **X/Twitter:** https://twitter.com/rabois

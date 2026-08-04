@@ -1,9 +1,9 @@
 ---
-title:  Ai Ethics & Misinformation
+title: Ai Ethics & Misinformation
 created: /home/hbtjm/lab/auto_memex
 updated: /home/hbtjm/lab/auto_memex
 type: concept
-tags:
+tags: [uncategorized]
 ---
 
 # {title}

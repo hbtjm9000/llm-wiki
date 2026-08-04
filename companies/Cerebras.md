@@ -1,3 +1,10 @@
+---
+title: Cerebras
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Cerebras
 
 **Type:** Company  
@@ -55,9 +62,9 @@ Cerebras Systems is a semiconductor company designing AI-specific processors. Kn
 ## See Also
 
 - [[NVIDIA]]
-- [[Rapidus]]
-- [[AI Infrastructure]]
-- [[Physical AI]]
+- Rapidus
+- AI Infrastructure
+- Physical AI
 
 ---
 *Created: 2026-04-18*

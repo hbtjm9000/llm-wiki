@@ -3,7 +3,7 @@ title: Data_Breaches
 created: /home/hbtjm/lab/auto_memex
 updated: /home/hbtjm/lab/auto_memex
 type: concept
-tags:
+tags: [uncategorized]
 ---
 
 # {title}

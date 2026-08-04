@@ -1,3 +1,10 @@
+---
+title: Xai
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # xAI
 
 **Type:** Company  
@@ -52,7 +59,7 @@ xAI is an artificial intelligence company founded by Elon Musk focused on buildi
 
 - [[OpenAI]]
 - [[Anthropic]]
-- [[Elon Musk]]
+- Elon Musk
 - [[Enterprise AI Adoption]]
 
 ---

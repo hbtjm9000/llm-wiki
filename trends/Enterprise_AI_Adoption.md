@@ -1,15 +1,15 @@
 ---
-type: trend
-name: "Enterprise AI Adoption"
-category: "Market/Technology"
-emergence_date: "2023-Q2"
-adoption_curve: "Early-Mainstream"
-related_entities:
-  - "[[a16z]]"
-  - "[[Khosla Ventures]]"
-  - "[[Keith Rabois]]"
-  - "[[Ben Horowitz]]"
-impact_on_paradigm: "High"
+type: entity
+name: Enterprise AI Adoption
+category: Market/Technology
+emergence_date: 2023-Q2
+adoption_curve: Early-Mainstream
+related_entities: 
+impact_on_paradigm: High
+title: Enterprise Ai Adoption
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Enterprise AI Adoption
@@ -49,7 +49,7 @@ impact_on_paradigm: "High"
 ## Related Trends
 - [[AI Infrastructure Investment]] - Enabling infrastructure buildout
 - [[AI Application Layer]] - Enterprise-ready applications emerging
-- [[SaaS Market Trends]] - AI features becoming table stakes
+- SaaS Market Trends - AI features becoming table stakes
 
 ## Monitoring Cadence
 - **Enterprise Case Studies:** Weekly scan (vendor blogs, press releases)

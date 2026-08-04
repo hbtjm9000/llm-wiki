@@ -1,3 +1,10 @@
+---
+title: Waymo
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Waymo
 
 **Type:** Company  
@@ -55,10 +62,10 @@ Waymo is a leading autonomous driving technology company developing self-driving
 
 ## See Also
 
-- [[Wayve]]
+- Wayve
 - [[Tesla]]
-- [[Physical AI]]
-- [[Autonomous Vehicles]]
+- Physical AI
+- Autonomous Vehicles
 
 ---
 *Created: 2026-04-18*

@@ -1,3 +1,10 @@
+---
+title: Anthropic
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Anthropic
 
 **Type:** Company  
@@ -58,7 +65,7 @@ Anthropic is an AI safety and research company focused on developing reliable, i
 
 - [[OpenAI]]
 - [[xAI]]
-- [[AI Safety]]
+- AI Safety
 - [[Enterprise AI Adoption]]
 
 ---

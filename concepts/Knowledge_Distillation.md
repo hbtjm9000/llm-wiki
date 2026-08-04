@@ -1,7 +1,14 @@
+---
+title: Knowledge Distillation
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Knowledge Distillation
 
 **Category:** AI Implementation / Enterprise AI  
-**Related:** [[AI Operating Layer]], [[Enterprise AI Adoption]], [[Tacit Knowledge]]  
+**Related:** [[AI Operating Layer]], [[Enterprise AI Adoption]], Tacit Knowledge  
 
 ## Overview
 
@@ -92,11 +99,11 @@ Knowledge Distillation is the systematic conversion of expert judgment and opera
 ## Related Concepts
 
 - [[AI Operating Layer]]
-- [[Tacit Knowledge]]
+- Tacit Knowledge
 - [[Enterprise AI Adoption]]
-- [[Feedback Loops]]
-- [[Operational Data]]
-- [[Training Signals]]
+- Feedback Loops
+- Operational Data
+- Training Signals
 
 ## Predictions
 
@@ -114,7 +121,7 @@ Knowledge Distillation is the systematic conversion of expert judgment and opera
 - [[AI Operating Layer]]
 - [[Enterprise AI Adoption]]
 - [[Ensemble]]
-- [[Tacit Knowledge]]
+- Tacit Knowledge
 
 ---
 *Created: 2026-04-18*

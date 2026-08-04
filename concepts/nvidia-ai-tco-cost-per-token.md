@@ -3,11 +3,8 @@ title: NVIDIA AI TCO Cost Per Token
 type: concept
 created: 2026-04-19
 source: blogs.nvidia.com
-tags:
-  - ai-infrastructure
-  - inference
-  - tco
-  - nvidia
+tags: [uncategorized]
+updated: 2026-04-30
 ---
 
 # NVIDIA AI TCO: Cost Per Token Analysis

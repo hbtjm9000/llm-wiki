@@ -1,20 +1,18 @@
 ---
-type: company
-name: "Tesla"
-sector: "Automotive / AI"
-size: "Enterprise"
-positioning: "Premium - AI-First Manufacturer"
-products_services:
-  - "Electric Vehicles"
-  - "Full Self-Driving (FSD)"
-  - "Optimus Robot"
-  - "AI Training Infrastructure (Dojo)"
-  - "Energy Storage"
+type: entity
+name: Tesla
+sector: Automotive / AI
+size: Enterprise
+positioning: Premium - AI-First Manufacturer
 market_moves:
-  - "2026-04-12: Part of '$25B Orbital AI Bet' discussion on All In Podcast"
-  - "Ongoing: FSD development, Optimus robot development"
-competitive_threat: "Low"
----
+  - "2026-04-12: Part of '$25B Orbital AI Bet' discussion on All In Podcast
+  - "Ongoing: FSD development, Optimus robot development
+competitive_threat: Low
+title: Tesla
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
+------
 
 # Tesla
 
@@ -45,9 +43,9 @@ competitive_threat: "Low"
 | Ongoing | Optimus robot development | Product | Monitor progress |
 
 ## Connections
-- **Related influencers:** [[Elon Musk]], [[Chamath Palihapitiya]]
+- **Related influencers:** Elon Musk, [[Chamath Palihapitiya]]
 - **Related companies:** [[SpaceX]], [[Intel]], [[NVIDIA]]
-- **Related trends:** [[AI Infrastructure Investment]], [[Autonomous Systems]]
+- **Related trends:** [[AI Infrastructure Investment]], Autonomous Systems
 
 ## Content Sources
 - **Website:** https://www.tesla.com/

@@ -1,3 +1,10 @@
+---
+title: Boris Cherny
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Boris Cherny
 
 **Type:** Person

@@ -2,6 +2,7 @@
 title: Hard Truths About Building in AI Era - Keith Rabois
 type: insight
 created: 2026-04-19
+updated: 2026-04-30
 source: lennysnewsletter.com
 tags:
   - product-management

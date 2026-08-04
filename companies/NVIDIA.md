@@ -1,22 +1,19 @@
 ---
-type: company
-name: "NVIDIA"
-sector: "Semiconductors / AI Infrastructure"
-size: "Enterprise"
-positioning: "Premium - AI Infrastructure Leader"
-products_services:
-  - "GPU Accelerators (Hopper, Blackwell)"
-  - "AI Enterprise Software"
-  - "Networking (InfiniBand, Ethernet)"
-  - "DGX Systems"
-  - "Cloud AI Services"
-  - "Automotive/Robotics Platforms"
+type: entity
+name: NVIDIA
+sector: Semiconductors / AI Infrastructure
+size: Enterprise
+positioning: Premium - AI Infrastructure Leader
 market_moves:
-  - "2026-04-15: Published 'Rethinking AI TCO: Cost per Token Is the Only Metric That Matters'"
-  - "2026-04: GTC 2026 - Vera Rubin platform announced (H2 2026 shipping)"
-  - "2026: Blackwell GB300 NVL72 deployment at scale (1,000 racks/week)"
-competitive_threat: "Medium"
----
+  - "2026-04-15: Published 'Rethinking AI TCO: Cost per Token Is the Only Metric That Matters
+  - "2026-04: GTC 2026 - Vera Rubin platform announced (H2 2026 shipping)
+  - "2026: Blackwell GB300 NVL72 deployment at scale (1,000 racks/week)
+competitive_threat: Medium
+title: Nvidia
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
+------
 
 # NVIDIA
 
@@ -61,7 +58,7 @@ competitive_threat: "Medium"
 - **Inference Economics:** Understanding token costs critical for AI ROI calculations
 
 ## Key People to Monitor
-- [[Jensen Huang]] - CEO, GTC keynotes
+- Jensen Huang - CEO, GTC keynotes
 - AI Infrastructure team
 
 ## Content Sources
@@ -70,9 +67,9 @@ competitive_threat: "Medium"
 - **Developer Blog:** https://developer.nvidia.com/blog/
 
 ## Connections
-- **Related companies:** [[AMD]], [[Intel]], [[Cerebras]] (competitors)
-- **Related concepts:** [[Cost per Token]], [[AI Inference Economics]], [[Token Factories]]
-- **Related trends:** [[AI Infrastructure Investment]], [[Inference vs Training]]
+- **Related companies:** AMD, [[Intel]], [[Cerebras]] (competitors)
+- **Related concepts:** [[Cost per Token]], AI Inference Economics, Token Factories
+- **Related trends:** [[AI Infrastructure Investment]], Inference vs Training
 
 ---
 

@@ -3,11 +3,7 @@ title: AI Sycophancy and Trust
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags:
-  - AI
-  - Ethics
-  - Trust
-  - Safety
+tags: [uncategorized]
 ---
 
 # AI Sycophancy and Trust
@@ -56,7 +52,7 @@ Recent research: "Humans expect rationality and cooperation from LLM opponents i
 4. **Regulatory challenges** — Need for transparency requirements on AI behavior
 
 ## Related Concepts
-- [[ai-ethics-misinformation]]
+- ai-ethics-misinformation
 - [[ai-governance-and-security]]
 - [[ai-risk-amplification]]
 

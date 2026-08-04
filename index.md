@@ -1,17 +1,111 @@
 ---
-title: Wiki Index
+title: Wiki Index [DEPRECATED — see ~/wikiroot]
 created: 2026-04-12
-updated: 2026-04-23
+updated: 2026-06-04
 type: index
-tags:
-  - AI
-  - Security
-  - Infrastructure
+tags: [AI, Security, Infrastructure]
 ---
-# Wiki Index
+
+# Wiki Index [DEPRECATED]
+
+> ⚠️ **This vault (~/library/) is deprecated.** All content is being migrated to `~/wikiroot/` — the canonical, domain-organized LLM-Wiki. See `~/wikiroot/_index.md` for current content.
+>
+> Retirement tracked in Forgejo issue: **hal/crumbs#38** — "Retire ~/library vault — migrated to ~/wikiroot"
+
+
+## Schemas
+
+- [[SCHEMA]]
+
+## Companys
+
+- [[a16z]]
+- [[Tesla]]
+- [[SpaceX]]
+- [[Social_Capital]]
+- [[NVIDIA]]
+- [[Khosla_Ventures]]
+- [[Intel]]
+- [[All_In_Podcast]]
+
+## Entities
+
+- [[hermes-vs-codex-executive-architecture]]
+- [[hermes-vs-codex-executive-architecture-references]]
+- [[desktop-agent-harnesses-security-sandboxing-comparison]]
+- [[hermes-agent-commercial-offerings-analysis]]
+- [[multi-agent_workspace]]
+- [[backup-dr-strategy]]
+- [[troy-hunt]]
+- [[nate-b-jones]]
+- [[hussein-nasser]]
+- [[graham-cluley]]
+- [[david-bombal]]
+- [[dave-ebbelaar]]
+- [[corey-quinn]]
+- [[clement-mihailescu]]
+- [[bruce-schneier]]
+- [[ben-kepes]]
+- [[adrian-cockcroft]]
+
+## Influencers
+
+- [[Marc_Andreessen]]
+- [[Lenny_Rachitsky]]
+- [[Keith_Rabois]]
+- [[Jason_Calacanis]]
+- [[David_Sacks]]
+- [[Chamath_Palihapitiya]]
+- [[Ben_Horowitz]]
+
+## Logs
+
+- [[log-2026-06-30]]
+- [[log]]
+- [[log-2026-04-21]]
+
+## Trends
+
+- [[a16z-300b-quarter-q1-2026]]
+- [[Enterprise_AI_Adoption]]
+- [[AI_Infrastructure_Investment]]
+- [[AI_Application_Layer]]
+## Infrastructure
+- homelab-infrastructure-stack
+- [[Twingate]]
+- Authentik
+- SeaweedFS
+- Forgejo
+- Hermes Agent
 
 ## Concepts
-
+- [[test-idempotent-page]]
+- [[case-test]]
+- [[cybersecurity]]
+- [[web-3.0-decentralized-websites]]
+- [[AI_Token_Factories]]
+- [[test-idempotent-index]]
+- [[newsletter-2026-04-23]]
+- [[nikhyl-singhal]]
+- [[lenny-rachitsky]]
+- [[keith-rabois]]
+- [[boris-cherny]]
+- [[andrej-karpathy]]
+- [[digitalvulnerabilities&userawareness]]
+- test-idempotent-page
+- case-test
+- ai-security-query-test
+- [[xAI]]
+- [[Waymo]]
+- [[OpenAI]]
+- [[Ensemble]]
+- [[Cerebras]]
+- [[Anthropic]]
+- [[ai-infrastructure;-compression-algorithms]]
+- [[-digital-privacy-&-data-misuse]]
+- [[-cybersecurity-&-fraud]]
+- [[-ai-ethics-&-misinformation]]
+- [[video]]
 - [[active_directory_security]]
 - [[adrian-cockcroft-search-results]]
 - [[agentic-ai]]
@@ -58,7 +152,6 @@ tags:
 - [[cybercrime-and-cyber-resilience]]
 - [[cybercrimetrends]]
 - [[cyber_security]]
-- [[cybersecurity]]
 - [[cybersecurity-awareness]]
 - [[cybersecurity_career_development]]
 - [[-cybersecurity--fraud]]
@@ -111,3 +204,12 @@ tags:
 - [[web-application-security]]
 - [[web_application_security]]
 - [[wifi_security]]
+- [[autonomous-execution-harness]] — Three-tier task execution model
+- [[azure-landing-zone-regulated-industries]] — Azure landing zone for regulated banking workloads
+- [[banking-rfp-framework]] — Banking RFP best practices and evaluation framework
+- [[jboss-wildfly-migration-tool]] — Official migration tool for JBoss/WildFly server upgrades
+- [[nist-sp-800-53-azure-policy-compliance]] — Azure Policy regulatory compliance for NIST SP 800-53 Rev 5
+- [[pci-dss-v4-0-1-requirements]] — PCI DSS v4.0.1 requirements including 6.4.3 and 11.6.1
+- [[rfp-scoring-matrix-methodology]] — Weighted scoring matrix for banking RFP vendor evaluation
+- [[temporal-durable-execution]] — Temporal as the execution plane for the software factory
+- [[commercial-autonomous-agent-deployment-competitors]] — Analysis of top 3 competitors in commercial autonomous agent deployment space

@@ -1,17 +1,15 @@
 ---
-type: trend
-name: "AI Infrastructure Investment"
-category: "Technology/Investment"
-emergence_date: "2023-Q1"
-adoption_curve: "Mainstream"
-related_entities:
-  - "[[a16z]]"
-  - "[[Khosla Ventures]]"
-  - "[[Social Capital]]"
-  - "[[Intel]]"
-  - "[[Tesla]]"
-  - "[[SpaceX]]"
-impact_on_paradigm: "High"
+type: entity
+name: AI Infrastructure Investment
+category: Technology/Investment
+emergence_date: 2023-Q1
+adoption_curve: Mainstream
+related_entities: 
+impact_on_paradigm: High
+title: Ai Infrastructure Investment
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # AI Infrastructure Investment
@@ -45,7 +43,7 @@ impact_on_paradigm: "High"
 ## Related Trends
 - [[Enterprise AI Adoption]] - Downstream effect of infrastructure buildout
 - [[AI Application Layer]] - Next wave of investment (post-infrastructure)
-- [[Tech Valuation Cycles]] - Broader market context
+- Tech Valuation Cycles - Broader market context
 
 ## Monitoring Cadence
 - **VC Funding Announcements:** Weekly scan (Crunchbase, a16z, etc.)

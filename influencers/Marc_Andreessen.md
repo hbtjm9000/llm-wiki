@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "Marc Andreessen"
-handle: "@pmarca"
-platform: "X"
-affiliation: "a16z (Andreessen Horowitz)"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#trend/emerging"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "Co-founder of a16z, seminal VC in tech. Early investor in Netscape, Facebook, Twitter. Known for 'software is eating the world' thesis. Active on X and a16z Substack."
+type: entity
+name: Marc Andreessen
+handle: '@pmarca'
+platform: X
+affiliation: a16z (Andreessen Horowitz)
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: Co-founder of a16z, seminal VC in tech. Early investor in Netscape, Facebook, Twitter. Known for 'software is eating the world' thesis. Active on X and a16z Substack.
+title: Marc Andreessen
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Marc Andreessen
@@ -41,7 +42,7 @@ notes: "Co-founder of a16z, seminal VC in tech. Early investor in Netscape, Face
 
 ## Connections
 - **Related influencers:** [[Ben Horowitz]], [[Keith Rabois]], [[Chamath Palihapitiya]]
-- **Related companies:** [[a16z]], [[Netscape]], [[Facebook]]
+- **Related companies:** [[a16z]], Netscape, Facebook
 - **Related trends:** [[AI Infrastructure Investment]], [[Enterprise AI Adoption]]
 
 ## Content Sources

@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "Lenny Rachitsky"
-handle: "@lennysan"
-platform: "X"
-affiliation: "Lenny's Newsletter"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#competitive/positioning"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "Former Airbnb PM. Writes Lenny's Newsletter - one of the most influential product/strategy newsletters. Features deep-dive interviews with tech leaders including Keith Rabois AI building discussion."
+type: entity
+name: Lenny Rachitsky
+handle: '@lennysan'
+platform: X
+affiliation: Lenny's Newsletter
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: Former Airbnb PM. Writes Lenny's Newsletter - one of the most influential product/strategy newsletters. Features deep-dive interviews with tech leaders including Keith Rabois AI building discussion.
+title: Lenny Rachitsky
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Lenny Rachitsky
@@ -40,9 +41,9 @@ notes: "Former Airbnb PM. Writes Lenny's Newsletter - one of the most influentia
 | Ongoing | Weekly newsletter | Product/AI strategy content | Weekly monitoring |
 
 ## Connections
-- **Related influencers:** [[Keith Rabois]], [[Marc Andreessen]], [[Sarah Tavel]]
-- **Related companies:** [[Lenny's Newsletter]], [[Airbnb]], [[Khosla Ventures]]
-- **Related trends:** [[AI Application Layer]], [[Product-Led Growth]]
+- **Related influencers:** [[Keith Rabois]], [[Marc Andreessen]], Sarah Tavel
+- **Related companies:** Lenny's Newsletter, Airbnb, [[Khosla Ventures]]
+- **Related trends:** [[AI Application Layer]], Product-Led Growth
 
 ## Content Sources
 - **Lenny's Newsletter:** https://www.lennysnewsletter.com/

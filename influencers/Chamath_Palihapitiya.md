@@ -1,16 +1,17 @@
 ---
-type: influencer
-name: "Chamath Palihapitiya"
-handle: "@chamath"
-platform: "X"
-affiliation: "Social Capital / All In Podcast"
-expertise:
-  - "#technology/ai"
-  - "#market/enterprise"
-  - "#competitive/pricing"
-credibility: "High"
-follow_status: "Monitoring"
-notes: "Founder/CEO Social Capital. Co-host All In Podcast. Former Facebook VP. Known for contrarian takes on tech valuations and AI investment thesis."
+type: entity
+name: Chamath Palihapitiya
+handle: '@chamath'
+platform: X
+affiliation: Social Capital / All In Podcast
+expertise: 
+credibility: High
+follow_status: Monitoring
+notes: Founder/CEO Social Capital. Co-host All In Podcast. Former Facebook VP. Known for contrarian takes on tech valuations and AI investment thesis.
+title: Chamath Palihapitiya
+created: 2026-04-30
+updated: 2026-04-30
+tags: [uncategorized]
 ---
 
 # Chamath Palihapitiya
@@ -42,7 +43,7 @@ notes: "Founder/CEO Social Capital. Co-host All In Podcast. Former Facebook VP. 
 ## Connections
 - **Related influencers:** [[Marc Andreessen]], [[Keith Rabois]], [[Jason Calacanis]], [[David Sacks]]
 - **Related companies:** [[Social Capital]], [[All In Podcast]], [[Tesla]], [[SpaceX]], [[Intel]]
-- **Related trends:** [[AI Infrastructure Investment]], [[Tech Valuation Cycles]]
+- **Related trends:** [[AI Infrastructure Investment]], Tech Valuation Cycles
 
 ## Content Sources
 - **X/Twitter:** https://twitter.com/chamath

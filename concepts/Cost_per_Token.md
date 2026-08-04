@@ -1,7 +1,14 @@
+---
+title: Cost Per Token
+created: 2026-04-30
+updated: 2026-04-30
+type: entity
+tags: [uncategorized]
+---
 # Cost per Token
 
 **Category:** AI Economics / Metrics  
-**Related:** [[AI Token Factories]], [[AI Infrastructure Investment]], [[AI TCO]]  
+**Related:** [[AI Token Factories]], [[AI Infrastructure Investment]], AI TCO  
 
 ## Overview
 
@@ -87,8 +94,8 @@ Cost per Token = Total Infrastructure Cost / Total Tokens Generated
 
 - [[AI Token Factories]]
 - [[AI Infrastructure Investment]]
-- [[AI TCO]]
-- [[AI Inference]]
+- AI TCO
+- AI Inference
 - [[NVIDIA]]
 
 ---
